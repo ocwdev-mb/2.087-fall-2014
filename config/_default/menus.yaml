@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 374078f8-287c-fd03-32a1-99c495236347
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 756d28dd-6070-3309-c87a-70e3324bd8f8
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 1d0410a0-c70b-6d23-d199-696d911f70b4
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 30
+- identifier: ab798195-6493-ac6f-f7e9-94d58051212e
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 6089d1d5-b454-6659-9dbb-b660dace0101
+  name: MATLAB Scripts
+  pageRef: /pages/matlab-scripts
+  weight: 50
+- identifier: a6eaf376-cc95-47e1-6557-e91d5943f3a8
+  name: Exams
+  pageRef: /pages/exams
+  weight: 60
+- identifier: d2147ee9-31f4-dff1-cd9e-ed52e070a0c2
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70
